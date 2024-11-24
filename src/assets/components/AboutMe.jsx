@@ -34,11 +34,7 @@ function AboutMe() {
                   <p className="mb-4 gsap-reveal">
                     i Pawan, the owner and skilled artist at Inkyard Tattoo Studio, entered the tattoo industry as an intern in 2019, gradually mastering the craft. In 2021,  I established my own studio, specializing in line work arts, small minimalist tattoos, band tattoos, Realism and piercings. With a focus on customer happiness and satisfaction, Inkyard Tattoo Studio offers unbeatable charges compared to other studios.
                   </p>
-                  {/* <p className="gsap-reveal">
-                  <a href="#" className="btn btn-outline-pill btn-custom-light">
-                    Download my CV
-                  </a>
-                </p> */}
+
                 </div>
               </div>
             </div>
