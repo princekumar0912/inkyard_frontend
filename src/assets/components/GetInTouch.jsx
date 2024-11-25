@@ -96,7 +96,9 @@ function GetInTouch() {
                         <label htmlFor="contact">Phone</label>
                         <input
                           name="phone"
-                          type="phone"
+
+                          type="text"
+                          maxLength="10"
                           className="form-control"
                           onChange={handleChange}
                         />
@@ -131,7 +133,7 @@ function GetInTouch() {
                     <div className="gsap-reveal d-block">
                       <span className="d-block contact-info-label">Email</span>
                       <h5>
-                        ikyardtattoostudio@gmail.com</h5>
+                        inkyardtattoostudio@gmail.com</h5>
 
                     </div>
                     <div className="gsap-reveal d-block">
