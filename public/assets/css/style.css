@@ -841,7 +841,7 @@ a, a:hover {
 .cover-v1 .subheadinghero {
   
   /* color: #fff;  */
-  font-size: 33px;
+  font-size: 35px;
   /* font-family:cursive; */
   color:darkgrey;
   /* color:#fff; */
@@ -2412,6 +2412,7 @@ font-size: 1rem;
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
+  display: inline-flex;
   }
 
   .button-57 span:first-child {
@@ -2543,6 +2544,7 @@ color: white;
   }
  
 .button60{
+  /* display:inline-flex; */
     width: 100%;
     padding: 10px;
     background-color:white;
@@ -2552,6 +2554,8 @@ color: white;
     cursor: pointer;
     margin-top: 20px;
     border: 2px solid white;
+    font-weight: 800;
+    font-size: 20px;
   }
   
   
@@ -2562,3 +2566,16 @@ color: white;
   }
 
 
+  .newloader {
+    
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+  }
+  .newloader .tail-spin {
+    color: #fff;  /* Custom color */
+  }
+
+  

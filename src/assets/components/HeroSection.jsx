@@ -23,7 +23,7 @@ function HeroSection() {
             <div className="container">
               <div className="row align-items-center">
                 <div className="col-md-7 mx-auto text-center">
-                  <h1 className="heading gsap-reveal-hero">Inkyard.</h1>
+                  <h1 className="heading gsap-reveal-hero py-2">Inkyard.</h1>
                   <div className=" gsap-reveal-hero  mt-2  ">
                     <h2 className="subheadinghero  ">Where Every Stroke of <p>Ink.</p> <br />Tells a Unique Story on Your <p>Skin.</p></h2>
                   </div>
